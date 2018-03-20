@@ -1,1 +1,6 @@
-# FWWStory1
+## Short Story
+
+This story is for Fiction Writing Workshop I class.
+
+
+
