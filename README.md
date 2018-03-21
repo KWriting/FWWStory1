@@ -13,9 +13,9 @@ Thoughts:
 - some text and stuff without which I would have known nothing about that which isn't considered to be the conclusion derived
     - some text and stuff without which I would have known nothing about that which isn't considered to be the conclusion derived
     - some text and stuff without which I would have known nothing about that which isn't considered to be the conclusion derived
--some text and stuff without which I would have known nothing about that which isn't considered to be the conclusion derived
--some text and stuff without which I would have known nothing about that which isn't considered to be the conclusion derived
--some text and stuff without which I would have known nothing about that which isn't considered to be the conclusion derived
+- some text and stuff without which I would have known nothing about that which isn't considered to be the conclusion derived
+- some text and stuff without which I would have known nothing about that which isn't considered to be the conclusion derived
+- some text and stuff without which I would have known nothing about that which isn't considered to be the conclusion derived
 
 * some text and stuff without which I would have known nothing about that which isn't considered to be the conclusion derived
 * some text and stuff without which I would have known nothing about that which isn't considered to be the conclusion derived
