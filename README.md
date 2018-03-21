@@ -1,4 +1,4 @@
-## Short Story
+### Story Notes
 
 This story is for Fiction Writing Workshop I class.
 
@@ -14,3 +14,6 @@ Thoughts:
 #### Hospital to Driving Home story:
 ##### Hospital to Driving Home story:
 ###### Hospital to Driving Home story:
+####### Hospital to Driving Home story:
+######## Hospital to Driving Home story:
+################ Hospital to Driving Home story:
