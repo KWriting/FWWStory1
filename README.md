@@ -2,12 +2,13 @@
 
 This story is for Fiction Writing Workshop I class.
 
-This story is going to be from the perspective of a boy living in an urban environment.  While exploring the boy's daily life, the story will start to give light to a mystery unfolding in the boy's presence.  
+Thoughts:
+- teenager whose father runs out on family, show how he copes and learns to trust
+- guy who leaves a hospital, driving his car home
+-- who was in the hospital?
+--- son is in hospital; father is waiting in hall outside room
+
+- as he's heading home,
 
 The story will focus on:
-- this mystery (or just general mysteries of other people's lives around him) and
-- the boy's desires (find brother, find something else? idk yet)
-
-I edit so well
-
-I am the edit master
+- the lingering presence
