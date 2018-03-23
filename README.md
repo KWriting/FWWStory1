@@ -9,3 +9,6 @@ Thoughts:
     * son is in hospital; father is waiting in hall outside room
 
 ### Hospital to Driving Home story:
+- father is at hospital, waiting outside room where his son is sleeping
+- they were both just in a car crash - father was DUI
+- ex-wife arrives outside
